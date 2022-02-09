@@ -10,3 +10,4 @@ All the file are compile in Visual Studio 2022 Community Version, using [Release
  
 1. Hello World!
 2. A+B
+3. Get 1+2+3+4+5+……+n
